@@ -5,7 +5,6 @@
       "domain:ai.dev",
       "domain:auth.openai.com",
       "domain:featureassets.org",
-      "domain:files.oaiusercontent.com",
       "domain:mobile.events.data.microsoft.com",
       "domain:telemetry.individual.githubcopilot.com"
     ],
